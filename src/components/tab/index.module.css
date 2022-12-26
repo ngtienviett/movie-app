@@ -1,0 +1,15 @@
+.tabContainer {
+    border-bottom-width: 1px;
+    border-bottom-color: #000;
+    border-bottom-style: solid;
+    margin-bottom: 2.5rem;
+    column-gap: 1.25rem;
+}
+.tabItem {
+}
+.tabActive {
+    color: green;
+    border-bottom-width: 1px;
+    border-bottom-color: green;
+    border-bottom-style: solid;
+}
